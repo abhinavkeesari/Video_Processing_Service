@@ -1,17 +1,17 @@
 #YouTube Clone - Video Processing Platform
 
 #Tech Stack
-TypeScript
-Next.js
-Express.js
-Docker
-FFmpeg
-Firebase Auth
-Firebase Functions
-Firebase Firestore
-Google Cloud Storage
-Google Cloud Pub/Sub
-Google Cloud Run
+TypeScript,
+Next.js,
+Express.js,
+Docker,
+FFmpeg,
+Firebase Auth,
+Firebase Functions,
+Firebase Firestore,
+Google Cloud Storage,
+Google Cloud Pub/Sub,
+Google Cloud Run.
 
 Developing a cloud-based video-sharing platform with secure video uploads, transcoding, and streaming.
 
